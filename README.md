@@ -1,2 +1,1 @@
-# PushDemo
-demo push
+I change it for Push command demo.
